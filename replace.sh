@@ -8,10 +8,10 @@ cd docs
 
 ## ИЗМЕНИТЕ ИХ С ПОМОЩЬЮ ВАШИХ ЗНАЧЕНИЙ
 
-MY_TITLE='Foo Bar'
-MY_SUBTITLE='Foos the bar all the buzz'
-MY_USERNAME='MyGitHubUsername'
-MY_PROJECT_SLUG='foo-bar'
+MY_TITLE='my-site-docs'
+MY_SUBTITLE='My first repo docs by docsify'
+MY_USERNAME='easy-quest'
+MY_PROJECT_SLUG=${MY_TITLE}
 
 ## НЕ ИЗМЕНЯТЬ ПОСЛЕ СТРОКИ ВЫШЕ
 
