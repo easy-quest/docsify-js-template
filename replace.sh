@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/data/data/com.termux/files/usr/bin/env bash
 # Replacement utility script.
 #
 # Следуйте инструкциям в README.md чтобы использовать этот скрипт, а затем удалить его, когда вы закончите.

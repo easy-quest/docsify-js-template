@@ -36,7 +36,7 @@ _Docsify.js_ запускается как _Single-Page Application_ на `index
 Нажмите кнопку ниже, чтобы создать собственную копию этого репозитория.
 
 <div align="center">
-    <a href="https://github.com/easy-quest/docsify-js-template/generate">
+    <a href="https://github.com/easy-quest/docsifyjs-template/generate">
         <img src="https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge" 
             alt="Use this template"
             title="Create repo from template">
@@ -48,7 +48,7 @@ _Docsify.js_ запускается как _Single-Page Application_ на `index
 Затем следуйте инструкциям в исходном репозитории GitHub, ссылка на который приведена ниже. Файл `README.md` описывает, как настроить сайт документов, подобный этому.
 
 <div align="center">
-    <a href="https://github.com/easy-quest/docsify-js-template">
+    <a href="https://github.com/easy-quest/docsifyjs-template">
         <img src="https://img.shields.io/static/v1?label=MichaelCurrin&message=docsify-js-template&color=blue&style=for-the-badge&logo=github" 
             alt="easy-quest - docsify-js-template"
             title="Go to template repo">

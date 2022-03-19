@@ -10,4 +10,4 @@ docs-py:
 	cd docs && python3 -m http.server 3000
 
 gpp:
-	xx=$(uname -a);echo $xx;git add .;git commit -am "$xx";git status                                                                                                                                                                                       
+	xx=$(uname -a);echo $xx;git add .;git commit -am "$xx";git push;git status; 
